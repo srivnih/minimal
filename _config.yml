@@ -1,6 +1,15 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Nihal Srivastava
+logo: /assets/img/nihal.png
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/nihal-srivastava-a5633819">LinkedIn</a> |
+  <a href="https://github.com/srivnih">GitHub</a>
+  
+  <br>   
+  I have started to work in AI and Machine learning.
+  Working in IT software development and testing for 13 years.
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
